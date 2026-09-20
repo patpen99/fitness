@@ -1,0 +1,16 @@
+{
+  "name": "Fitness Quest",
+  "short_name": "Fitness Quest",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f1216",
+  "theme_color": "#15191f",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
